@@ -1,10 +1,11 @@
 # Table of Contents
 
 ## 1. Introduction
-- 1.1 Objectives and Target Audience
-- 1.2 Scope and Non-Goals
-- 1.3 Relationship to Other Standards (IoT, Firmware, AI, IEC 62443, ISO 10218, IEC 61508)
-- 1.4 How to Use This Guide (Test Case Template, Environment and Risk Labels)
+- 1.1 Preface, Authors, and Contributors
+- 1.2 Objectives and Target Audience
+- 1.3 Scope and Non-Goals
+- 1.4 Relationship to Other Standards (IoT, Firmware, AI, IEC 62443, ISO 10218, IEC 61508)
+- 1.5 How to Use This Guide (Test Case Template, Environment and Risk Labels)
 
 ## 2. Methodology and Framework
 
