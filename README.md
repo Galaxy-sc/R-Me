@@ -9,11 +9,11 @@ Most existing security guides treat software, APIs, and AI models in digital iso
 
 ## Scope & Focus Areas
 
-* **Core Risk Taxonomy (OWASP Robotics Top 10):** Defining the top ten security and physical safety risks in robotics to structure our testing chapters.
-* **Robotic Middleware & Protocols:** Testing methodologies for ROS/ROS2 nodes, DDS, CAN bus, and intra-robot communications.
-* **Sensor Integrity:** Evaluating resilience against spoofing, jamming, and blinding attacks on LiDAR, ultrasonic sensors, IMUs, and depth cameras.
-* **Embodied AI & VLA Models:** Testing Vision-Language-Action (VLA) models against physical, visual, and kinetic prompt injections.
-* **Actuation & Hardware Safety Overrides:** Verifying the boundaries between software commands, joint torque limits, and hardware Emergency Stops (E-Stops).
+- **Core Risk Taxonomy (OWASP Robotics Top 10):** Defining the top ten security and physical safety risks in robotics to structure our testing chapters.
+- **Robotic Middleware & Protocols:** Testing methodologies for ROS/ROS2 nodes, DDS, CAN bus, and intra-robot communications.
+- **Sensor Integrity:** Evaluating resilience against spoofing, jamming, and blinding attacks on LiDAR, ultrasonic sensors, IMUs, and depth cameras.
+- **Embodied AI & VLA Models:** Testing Vision-Language-Action (VLA) models against physical, visual, and kinetic prompt injections.
+- **Actuation & Hardware Safety Overrides:** Verifying the boundaries between software commands, joint torque limits, and hardware Emergency Stops (E-Stops).
 
 ## Current Status & Roadmap
 
@@ -27,8 +27,8 @@ The project is currently in **Phase 1 (R&D & Taxonomy Definition)**.
 
 We are actively looking for robotics engineers, hardware hackers, AI researchers, and pentesters to help review the initial taxonomy and draft testing scenarios. 
 
-* **Project Leader:** [Meysam Bal-afkan](https://github.com/Galaxy-sc)
-* **Project Page:** [OWASP RSTG on owasp.org](https://owasp.org/www-project-robotics-security-testing-guide/)
+- **Project Leader:** [Meysam Bal-afkan](https://github.com/Galaxy-sc)
+- **Contributor Recognition:** All contributors to this project will be officially recognized and rewarded through the [OWASP Community Recognition Tool (OWASP-CRT)](https://crt.owasp.org).
 
 Contribution guidelines (`CONTRIBUTING.md`) and the initial v0.1 taxonomy draft will be added to the repository soon. Feel free to open an issue or reach out via email if you want to collaborate.
 
