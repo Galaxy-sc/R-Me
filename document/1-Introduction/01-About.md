@@ -14,7 +14,7 @@ The OWASP Robotics Security Testing Guide (RSTG) is a comprehensive manual for t
 
 ## Authors
 
-- *(Add your name here via PR if you have authored a section!)*
+- Harsha Hemanth Chunduri
 
 ## Acknowledgments
 
